@@ -1,165 +1,165 @@
-## Pytanie PL 100-0025
+## Pytanie PL100-0025
 `Pierwszą czynnością załogi statku powietrznego po lądowaniu awaryjnym w terenie przygodnym i wystąpieniu pożaru zagrażającemu życiu lub zdrowiu pasażerów lub  członków załogi jest:`
 * **Ugaszenie pożaru**
 * Ratowanie rannych
 * Telefon do straży pożarnej
 * Oddalenie się na bezpieczną odległość
 
-## Pytanie PL 100-0026
+## Pytanie PL100-0026
 `Po zderzeniu z ptakiem dowódca statku powietrznego, po wylądowaniu, składa meldunek:`
 * **pisemny.**
 * ustny.
 * nie składa.
 * składa meldunek ustny, jeśli statek powietrzny uległ jakiemukolwiek uszkodzeniu.
 
-## Pytanie PL 100-0028
+## Pytanie PL100-0028
 `Załoga statku powietrznego ma obowiązek zapinania wszystkich pasów bezpieczeństwa i uprzęży:`
 * **Do startu i lądowania oraz w sytuacjach, kiedy dowódca statku powietrznego uzna to za konieczne.**
 * Na polecenie dowódcy załogi statku powietrznego.
 * Do startu i do lądowania.
 * Tylko do lądowania.
 
-## Pytanie PL 100-0029
+## Pytanie PL100-0029
 `Bezpośrednio przed wejściem do kabiny statku powietrznego pilot sprawdza:`
 * **Stan techniczny statku powietrznego wykonując przegląd przedlotowy.**
 * Warunki meteorologiczne do planowanego lotu.
 * Zgodność listy pasażerów.
 * Czy otrzymał zgodę na lot.
 
-## Pytanie PL 100-0030
+## Pytanie PL100-0030
 `W przypadku konieczności opuszczenia statku powietrznego w powietrzu (np. z przyczyn technicznych), wyposażonego w radiostację pokładową pilot jest zobowiązany:`
 * **Zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia**
 * Nadać sygnał SOS i opuścić statek powietrzny
 * Opuścić statek powietrzny niezwłocznie.
 * Wszystkie pozostałe odpowiedzi są nieprawidłowe
 
-## Pytanie PL 100-0031
+## Pytanie PL100-0031
 `Bezpośrednio po zajęciu miejsca w kabinie pilot statku powietrznego sprawdza:`
 * **Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcja użytkowania w locie.**
 * Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu neutralnym.
 * Czystość i porządek w kabinie.
 * Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu wyjściowym.
 
-## Pytanie PL 100-0032
+## Pytanie PL100-0032
 `W jakich sytuacjach dowódca statku powietrznego może zobowiązać innych członków załogi do wykonywania czynności nie należących do ich normalnego zakresu obowiązków?`
 * **Kiedy należy zapewnić bezpieczeństwo lotu oraz bezpieczeństwo i porządek na pokładzie statku powietrznego..**
 * Kiedy z różnych powodów nie może wykonywać swoich obowiązków.
 * W sytuacjach  zagrażających bezpieczeństwu lotu.
 * W sytuacjach szczególnych.
 
-## Pytanie PL 100-0033
+## Pytanie PL100-0033
 `Statek powietrzny służby poszukiwania i ratownictwa lotniczego jest oznakowany następująco:`
 * **Napisem SAR**
 * Napisem SOS
 * Krzyżem maltańskim
 * Czerwonym krzyżem na białym tle.
 
-## Pytanie PL 100-0035
+## Pytanie PL100-0035
 `Dowódca statku powietrznego powiadamia o nieprawidłowości pracy urządzeń naziemnych i nawigacyjnych:`
 * **Właściwą stację naziemną, tak szybko jak to jest możliwe.**
 * Właściwą stację naziemną, telefonicznie po lądowaniu.
 * Właściwą stację naziemną, pisemnie po lądowaniu
 * Przełożonego lub najbliższy organ ruchu lotniczego
 
-## Pytanie PL 100-0037
+## Pytanie PL100-0037
 `Członek załogi statku powietrznego nie może spożywać alkoholu w okresie minimum:`
 * **24 godzin przed lotem**
 * 12 godzin przed lotem
 * 36 godzin przed lotem
 * 48 godzin przed lotem
 
-## Pytanie PL 100-0038
+## Pytanie PL100-0038
 `Raport o zdarzeniu w locie jest ważny jeśli:`
 * **Złoży go jeden członek załogi.**
 * złożą go wszyscy członkowie załogi.
 * złoży do pilot.
 * Zostanie zatwierdzony przez użytkownika.
 
-## Pytanie PL 100-0040
+## Pytanie PL100-0040
 `W celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego:`
 * **Można naruszyć przepisy lotnicze**
 * Nie można naruszać przepisów lotniczych
 * Można naruszyć przepisy lotnicze po konsultacji z członkami załogi
 * Wszystkie podane odpowiedzi są nieprawidłowe.
 
-## Pytanie PL 100-0041
+## Pytanie PL100-0041
 `Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tego wymagają złożyć organowi, który otrzymał zawiadomienie:`
 * **Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni**
 * Pisemne sprawozdanie o zdarzeniu w ciągu 14 dni
 * Ustne – telefoniczne sprawozdanie po lądowaniu w miejscu docelowym
 * Nie składa dodatkowych wyjaśnień.
 
-## Pytanie PL 100-0042
+## Pytanie PL100-0042
 `Osobę zatrzymaną na pokładzie statku powietrznego podejrzaną o dokonanie przestępstwa przekazuje się:`
 * **Organom Policji lub Straży Granicznej**
 * Służbie Więziennej
 * Straży Ochrony Lotniska
 * Funkcjonariuszom ABW.
 
-## Pytanie PL 100-0043
+## Pytanie PL100-0043
 `Obowiązek bezpiecznej eksploatacji statku powietrznego nałożony jest na użytkowniku statku powietrznego w:`
 * **Prawie lotniczym**
 * PL - 2
 * JAR-ach
 * PL - 6
 
-## Pytanie PL 100-0044
+## Pytanie PL100-0044
 `Osoba naruszająca obowiązki w zakresie bezpiecznej eksploatacji statku powietrznego podlega karze:`
 * **grzywny**
 * Pozbawienia wolności do lat 5
 * Pozbawienia wolności do 1 roku
 * Grzywny, karze ograniczenia wolności lub pozbawienia wolności do roku
 
-## Pytanie PL 100-0045
+## Pytanie PL100-0045
 `Zrzut np. wiązanki kwiatów ze statku powietrznego podczas dowolnej uroczystości jest:`
 * **Zabroniony**
 * Dozwolony, za zgodą władz lotniczych.
 * Dozwolony.
 * Dozwolony, jeśli zachowane są warunki bezpieczeństwa.
 
-## Pytanie PL 100-0046
+## Pytanie PL100-0046
 `W przypadku stwierdzenia przez załogę/dowódcę statku powietrznego zagrożenia bezpieczeństwa innego statku powietrznego należy:`
 * **Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi.**
 * Użyć wszelkich środków do udzielenia pomocy naruszając nawet przepisy lotnicze.
 * Powiadomić odpowiednie służby lotnicze.
 * Powiadomić odpowiednie służby lotnicze i działać według ich poleceń.
 
-## Pytanie PL 100-0047
+## Pytanie PL100-0047
 `Za bezpieczeństwo lotu od startu do lądowania odpowiada:`
 * **Dowódca załogi**
 * Załoga statku powietrznego
 * Kontroler Ruchu Lotniczego
 * Inspektor bezpieczeństwa lotów
 
-## Pytanie PL 100-0048
+## Pytanie PL100-0048
 `O wyborze miejsca do lądowania awaryjnego w terenie decyduje:`
 * **Dowódca załogi**
 * Załoga statku powietrznego
 * Służba ruchu lotniczego
 * Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego
 
-## Pytanie PL 100-0049
+## Pytanie PL100-0049
 `O przerwaniu zadania w powietrzu decyduje:`
 * **Dowódca załogi**
 * Załoga statku powietrznego
 * Służba ruchu lotniczego
 * Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego
 
-## Pytanie PL 100-0050
+## Pytanie PL100-0050
 `Komu składa pisemny raport załoga statku powietrznego o fakcie niebezpiecznego zbliżenia w powietrzu?`
 * **Osobie wskazanej w instrukcji operacyjnej**
 * PKBWL
 * Prezesowi ULC
 * Nie składa pisemnego raportu.
 
-## Pytanie PL 100-0051
+## Pytanie PL100-0051
 `Czy funkcjonariusz Policji może zażądać od pilota/załogi poddania się badaniu na obecność alkoholu we krwi po zaistnieniu wypadku lotniczego?`
 * **Tak**
 * Nie
 * Tylko w obecności członków PKBWL
 * Tylko w obecności lekarza.
 
-## Pytanie PL 100-0056
+## Pytanie PL100-0056
 `Do prowadzenia lotniczej korespondencji radiowej niezbędne jest posiadanie:`
 * **świadectwa radiooperatora w służbie lotniczej**
 * licencji członka personelu lotniczego
@@ -167,105 +167,105 @@
 żadnego dokumentu
 * obywatelstwa Rzeczypospolitej Polskiej
 
-## Pytanie PL 100-0057
+## Pytanie PL100-0057
 `Transmisja radiowa dla radionamierzania ma priorytet wyższy niż wywołanie PAN-PAN:`
 * **nie**
 * tak
 * tak, pod warunkiem że korespondencja odbywa się w języku angielskim
 * mają równy priorytet
 
-## Pytanie PL 100-0058
+## Pytanie PL100-0058
 `Podstawową międzynarodową częstotliwością do łączności telegraficznej ręcznej w niebezpieczeństwie jest:`
 * **500 kHz**
 * 121,5 MHz
 * 2182 kHz
 * 122,7 MHz
 
-## Pytanie PL 100-0059
+## Pytanie PL100-0059
 `Kontrola ruchu lotniczego obowiązana jest prowadzić nasłuch korespondencji radiowej w niebezpieczeństwie na częstotliwości:`
 * **121,5 MHz**
 * 500 kHz
 * 156.3 MHz
 * 2182 kHz
 
-## Pytanie PL 100-0060
+## Pytanie PL100-0060
 `Częstotliwość pomocnicza dla kanału 121.5 MHz to:`
 * **123.1 MHz**
 * 101,5 MHz
 * 500 kHz
 * 2128 kHz
 
-## Pytanie PL 100-0061
+## Pytanie PL100-0061
 `Do łączności między statkami morskimi a statkami powietrznymi, uczestniczącymi w akcjach poszukiwawczo - ratowniczych (SAR), przeznaczona jest częstotliwość:`
 * **156,3 MHz**
 * 121,5 MHz
 * 128,825 MHz
 * 123,450 MHz
 
-## Pytanie PL 100-0062
+## Pytanie PL100-0062
 `Częstotliwość 121,500 jest przeznaczona do:`
 * **lotniczej łączności radiotelefonicznej w niebezpieczeństwie**
 * łączności w niebezpieczeństwie dla telegrafii do odbioru słuchowego
 * łączności z lądem w akcjach poszukiwawczo - ratowniczych (SAR)
 * łączności z tratwami ratunkowymi
 
-## Pytanie PL 100-0063
+## Pytanie PL100-0063
 `Za sprawdzenie przed lotem ważności dopuszczenia do użytku wysokościomierza jest odpowiedzialny:`
 * **dowódca statku powietrznego**
 * inspektor kontroli cywilnych statków powietrznych
 * właściciel statku powietrznego
 * kierownik obsługi startowej
 
-## Pytanie PL 100-0064
+## Pytanie PL100-0064
 `Sprawdzenia obecności i kompletności środków pierwszej pomocy na pokładzie statku powietrznego dokonuje:`
 * **dowódca statku powietrznego**
 * dowolna osoba
 * lekarz wojewódzki
 * dowolny członek personelu lotniczego
 
-## Pytanie PL 100-0065
+## Pytanie PL100-0065
 `Za kompletność i dostępność całego pokładowego wyposażenia awaryjnego odpowiada:`
 * **dowódca statku powietrznego**
 * przewoźnik lub dysponent statku powietrznego
 * obsługa techniczna w miejscu startu
 * pion bezpieczeństwa lotniczego ULC
 
-## Pytanie PL 100-0066
+## Pytanie PL100-0066
 `Zestawy pierwszej pomocy powinny być umieszczone:`
 * **tak, by były łatwo dostępne dla wszystkich członków załogi i pasażerów**
 * w kabinie załogi
 * w części kadłuba najmniej narażonej na uszkodzenie
 * w zamkniętej kasetce w dyspozycji dowódcy statku powietrznego
 
-## Pytanie PL 100-0067
+## Pytanie PL100-0067
 `Do zestawu pierwszej pomocy powinien być dołączony:`
 * **podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)**
 * jedynie podręcznik pierwszej pomocy
 * podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO
 * Aneks 12 ICAO
 
-## Pytanie PL 100-0068
+## Pytanie PL100-0068
 `Przepisy dotyczące sygnałów, stosowanych w akcjach poszukiwawczo - ratowniczych znajdują się w:`
 * **Aneksie 12 ICAO**
 * Aneksie 6 ICAO
 * Aneksie 2 ICAO
 * AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”
 
-## Pytanie PL 100-0069
+## Pytanie PL100-0069
 `Komunikat MAYDAY nadaje się w przypadku:`
 * **bezpośredniego zagrożenia życia załogi i pasażerów**
 * konieczności zapewnienia pomocy medycznej
 * ogólnego niebezpieczeństwa dla ruchu lotniczego, zaobserwowania groźnych zjawisk itp.
 * utraty łączności
 
-## Pytanie PL 100-0070
+## Pytanie PL100-0070
 `Potwierdzeniem przyjęcia i zrozumienia sygnału wizualnego, podawanego z miejsca wypadku, przez pilota samolotu jest:`
 * **kilkakrotne przechylenie samolotu na boki**
 * wystrzelenie zielonej rakiety
 * włączenie smugaczy
 * zrzucenie meldunku potwierdzającego
 
-## Pytanie PL 100-0071
+## Pytanie PL100-0071
 `Potwierdzeniem przyjęcia i zrozumienia przez pilota samolotu sygnału wizualnego, podawanego z miejsca wypadku nocą jest:`
 * **kilkakrotne włączenie i wyłączenie
 świateł lądowania lub nawigacyjnych**
@@ -273,133 +273,133 @@
 * wystrzelenie zielonej rakiety
 * zrzucenie meldunku potwierdzającego
 
-## Pytanie PL 100-0072
+## Pytanie PL100-0072
 `Sygnał wizualny w kształcie litery X, podawany z miejsca wypadku lotniczego, oznacza:`
 * **żądanie pomocy medycznej**
 * żądanie udzielenia informacji o własnej pozycji
 * żądanie zidentyfikowania statku powietrznego
 * odpowiedź negatywna
 
-## Pytanie PL 100-0074
+## Pytanie PL100-0074
 `Za zapewnienie, aby wszyscy członkowie załogi lotniczej mogli porozumiewać się we wspólnym języku jest odpowiedzialny:`
 * **przewoźnik lub dysponent statku powietrznego**
 * dowódca statku powietrznego
 * Urząd Lotnictwa Cywilnego
 * Departament Kadr Ministerstwa Infrastruktury
 
-## Pytanie PL 100-0075
+## Pytanie PL100-0075
 `O napotkanych w locie potencjalnych zagrożeniach bezpieczeństwa oraz zdarzeniach takich, jak nieprawidłowa praca urządzeń naziemnych lub nawigacyjnych, niezwykłe zjawiska pogody, dowódca statku powietrznego powinien powiadomić:`
 * **właściwą stację naziemną tak szybko, jak jest to praktycznie możliwe**
 * organ kontroli ruchu lotniczego, po wylądowaniu
 * władze lokalne
 * Urząd Lotnictwa Cywilnego
 
-## Pytanie PL 100-0126
+## Pytanie PL100-0126
 `Załoga statku powietrznego ma obowiązek zapinania wszystkich pasów bezpieczeństwa i uprzęży:`
 * **Do startu i lądowania oraz w sytuacjach kiedy dowódca statku powietrznego uzna to za konieczne.**
 * Tylko na polecenie dowódcy załogi statku powietrznego.
 * Do startu i do lądowania.
 * Tylko do lądowania.
 
-## Pytanie PL 100-0127
+## Pytanie PL100-0127
 `Bezpośrednio przed wejściem do kabiny statku powietrznego pilot sprawdza:`
 * **Stan techniczny statku powietrznego wykonując przegląd przedstartowy**
 * Warunki meteorologiczne do planowanego lotu.
 * Zgodność listy pasażerów.
 * Czy otrzymał zgodę na lot.
 
-## Pytanie PL 100-0128
+## Pytanie PL100-0128
 `W przypadku konieczności opuszczenia statku powietrznego w powietrzu (np. z przyczyn technicznych), wyposażonego w radiostację pokładową pilot jest zobowiązany:`
 * **Jeżeli czas pozwala zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia**
 * Nadać sygnał SOS i opuścić statek powietrzny
 * Opuścić statek powietrzny niezwłocznie.
 * Wszystkie pozostałe odpowiedzi są nieprawidłowe
 
-## Pytanie PL 100-0130
+## Pytanie PL100-0130
 `W jakich sytuacjach dowódca statku powietrznego może zobowiązać innych członków załogi do wykonywania czynności nie należących do ich normalnego zakresu obowiązków?`
 * **Kiedy należy zapewnić bezpieczeństwo lotu oraz bezpieczeństwo i porządek na pokładzie statku powietrznego.**
 * Kiedy z różnych powodów nie może wykonywać swoich obowiązków.
 * W sytuacjach  zagrażających bezpieczeństwu lotu.
 * W sytuacjach szczególnych.
 
-## Pytanie PL 100-0131
+## Pytanie PL100-0131
 `Statek powietrzny służby poszukiwania i ratownictwa lotniczego jest oznakowany następująco:`
 * **Napisem SAR**
 * Napisem SOS
 * Krzyżem maltańskim
 * Czerwonym krzyżem na białym tle.
 
-## Pytanie PL 100-0132
+## Pytanie PL100-0132
 `Czy można wykonywać loty na statku powietrznym z napędem nad parkami narodowymi?`
 * **Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym**
 * Tak, ale pod warunkiem wykonywania lotu na małej wysokości.
 * Zabrania się.
 * Tak, po otrzymaniu zgody od właściwego organu ruchu lotniczego.
 
-## Pytanie PL 100-0133
+## Pytanie PL100-0133
 `Dowódca statku powietrznego powiadamia o nieprawidłowości pracy urządzeń naziemnych i nawigacyjnych:`
 * **Właściwą stację naziemną, tak szybko jak to jest możliwe.**
 * Właściwą stację naziemną, telefonicznie po lądowaniu.
 * Właściwą stację naziemną, pisemnie po lądowaniu
 * Przełożonego lub najbliższy organ ruchu lotniczego
 
-## Pytanie PL 100-0134
+## Pytanie PL100-0134
 `Członek załogi statku powietrznego nie może spożywać alkoholu w okresie minimum:`
 * **24 godzin przed lotem**
 * 12 godzin przed lotem
 * 36 godzin przed lotem
 * 48 godzin przed lotem
 
-## Pytanie PL 100-0137
+## Pytanie PL100-0137
 `Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tego wymagają dodatkowo złożyć organowi, który otrzymał zawiadomienie:`
 * **Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni**
 * Pisemne sprawozdanie o zdarzeniu w ciągu 14 dni
 * Ustne – telefoniczne sprawozdanie po lądowaniu w miejscu docelowym
 * Nie składa dodatkowych wyjaśnień.
 
-## Pytanie PL 100-0143
+## Pytanie PL100-0143
 `Za bezpieczeństwo lotu od startu do lądowania odpowiada:`
 * **Dowódca statku powietrznego**
 * Załoga statku powietrznego
 * Kontroler Ruchu Lotniczego
 * Inspektor bezpieczeństwa lotów
 
-## Pytanie PL 100-0144
+## Pytanie PL100-0144
 `O wyborze miejsca do lądowania awaryjnego w terenie decyduje:`
 * **Dowódca statku powietrznego**
 * Załoga statku powietrznego
 * Służba ruchu lotniczego
 * Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego
 
-## Pytanie PL 100-0145
+## Pytanie PL100-0145
 `O przerwaniu zadania w powietrzu decyduje:`
 * **Dowódca statku powietrznego**
 * Załoga statku powietrznego
 * Służba ruchu lotniczego
 * Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego
 
-## Pytanie PL 100-0150
+## Pytanie PL100-0150
 `Kontrola ruchu lotniczego oraz samoloty komunikacyjne obowiązane są do prowadzenia nasłuchu korespondencji radiowej w niebezpieczeństwie na częstotliwości:`
 * **121,5 MHz**
 * 500 kHz
 * 156.3 MHz
 * 2182 kHz
 
-## Pytanie PL 100-0152
+## Pytanie PL100-0152
 `Częstotliwość 121,500 jest przeznaczona do:`
 * **lotniczej łączności radiotelefonicznej w niebezpieczeństwie**
 * łączności w niebezpieczeństwie dla telegrafii do odbioru słuchowego
 * łączności z lądem w akcjach poszukiwawczo - ratowniczych (SAR)
 * łączności z tratwami ratunkowymi
 
-## Pytanie PL 100-0154
+## Pytanie PL100-0154
 `Za kompletność i dostępność całego pokładowego wyposażenia awaryjnego odpowiada:`
 * **dowódca statku powietrznego**
 * przewoźnik lub dysponent statku powietrznego
 * obsługa techniczna w miejscu startu
 * pion bezpieczeństwa lotniczego ULC
 
-## Pytanie PL 100-0155
+## Pytanie PL100-0155
 `Komunikat MAYDAY nadaje się w przypadku:`
 * **bezpośredniego zagrożenia życia załogi i pasażerów**
 * konieczności zapewnienia pomocy medycznej
@@ -9212,4 +9212,3 @@ sprawdzającą
 * organ kontroli ruchu lotniczego, po wylądowaniu
 * władze lokalne
 * Urząd Lotnictwa Cywilnego
-
